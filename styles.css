@@ -1,7 +1,17 @@
-.heading {
-    color: red;
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
 }
 
-#article-heading {
-    color: darkblue;
+header {
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+}
+
+.header-items {
+    display:inline-block; 
 }
