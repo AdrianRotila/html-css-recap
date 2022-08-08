@@ -3,15 +3,42 @@
     padding: 0px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     box-sizing: border-box;
+    text-align: center;
 }
 
 header {
     background-color: antiquewhite;
-    text-align: center;
     font-size: 30px;
     padding: 30px;
 }
 
 .header-items {
     display:inline-block; 
+
 }
+
+h1 {
+    padding: 30px;
+}
+
+input {
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 5px #000000;
+    height: 40px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.list-items {
+    padding: 30px;
+    font-size: 15px;
+}
+
+.list-items li {
+    padding: 5px;
+    color: #084561;
+    font-style: italic;
+}
+
+
