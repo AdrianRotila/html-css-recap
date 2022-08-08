@@ -12,9 +12,12 @@ header {
     padding: 30px;
 }
 
-.header-items {
-    display:inline-block; 
+header li {
+    font-weight: 100;
+}
 
+.header-items{
+    display:inline-block; 
 }
 
 h1 {
